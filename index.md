@@ -2,6 +2,4 @@
 layout: home
 ---
 
-# Bienvenide
-
-Hoola carepalo
+# Drshika's Ikebana Arrangements
