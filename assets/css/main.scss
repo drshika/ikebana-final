@@ -16,3 +16,10 @@ h1 {
    text-decoration-color: $primary_color;
    text-decoration-line: underline;
 }
+
+.main-content {
+   background-color: white;
+}
+.main-content .dark {
+   background-color: purple !important;
+}
